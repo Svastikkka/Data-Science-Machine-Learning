@@ -1,4 +1,4 @@
-# Data Scienece
+# Coding Ninja Data Scienece and Machine Learning
 
 ## Leactures
 - Lecture 11 - NumPy
