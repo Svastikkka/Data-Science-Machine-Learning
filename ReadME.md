@@ -9,8 +9,8 @@
 - Lecture 16 - Indexing And SQLite
 - Lecture 19 - Web Scraping - BeautifulSoup
 - Lecture 32 - Introduction To Machine Learning
-- Lecture 33 - Linear Regression Intution
-
+- Lecture 33 - Linear Regression
+- Lecture 33 - Multi Variable Regression
 
 ## Projects 
 
