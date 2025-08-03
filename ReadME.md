@@ -23,9 +23,17 @@
 - Lecture 43 - Principal Component Analysis (PCA) - 1
 - Lecture 44 - Principal Component Analysis (PCA) - 2
 - Lecture 45 - Natural Language Processing (NLP) - 1
-- Lecture 45 - Natural Language Processing (NLP) - 2
-
-
+- Lecture 46 - Natural Language Processing (NLP) - 2
+- Lecture 47 - Neural Networks - 1
+- Lecture 48 - Neural Networks - 2
+- Lecture 49 - TensorFlow
+- Lecture 50 - Keras
+- Lecture 51 - Convolution Neral Network - 1
+- Lecture 52 - Convolution Neral Network - 2
+- Lecture 53 - Recurrent Neural Network
+- Lecture 54 - Long Short Term Memory
+- Lecture 55 - Unsupervised Learning - 1 
+- Lecture 55 - Unsupervised Learning - 2
 
 
 ## Projects 
