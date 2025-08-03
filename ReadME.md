@@ -11,10 +11,33 @@
 - Lecture 32 - Introduction To Machine Learning
 - Lecture 33 - Linear Regression
 - Lecture 33 - Multi Variable Regression
+- Lecture 34 - Feature Scaling
+- Lecture 35 - Logistic Regression
+- Lecture 36 - Classification Measures
+- Lecture 37 - Decision Tree 1
+- Lecture 38 - Decision Tree 2
+- Lecture 39 - Random Forest
+- Lecture 40 - Naive Bayes
+- Lecture 41 - K - Nearest Neighbours (K - NN)
+- Lecture 42 - Support Vector Machine (SVM)
+- Lecture 43 - Principal Component Analysis (PCA) - 1
+- Lecture 44 - Principal Component Analysis (PCA) - 2
+- Lecture 45 - Natural Language Processing (NLP) - 1
+- Lecture 45 - Natural Language Processing (NLP) - 2
+
+
+
 
 ## Projects 
 
-- Project Gradient Descent
-- Project Logistic Regression
+- Project: Gradient Descent
+- Project: Logistic Regression
 - Project: Text Classification
 - Project: Twitter Sentiment Analysis
+
+
+## Revisit required
+- L34.2 Complexity Analysis Of Normal Equation
+
+## Continue on 
+- L34.4 Learning Rate
