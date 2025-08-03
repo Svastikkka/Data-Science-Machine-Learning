@@ -33,7 +33,7 @@
 - Lecture 53 - Recurrent Neural Network
 - Lecture 54 - Long Short Term Memory
 - Lecture 55 - Unsupervised Learning - 1 
-- Lecture 55 - Unsupervised Learning - 2
+- Lecture 56 - Unsupervised Learning - 2
 
 
 ## Projects 
